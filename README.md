@@ -37,3 +37,17 @@ Quizo is a clean and scalable backend system for a quiz application built using 
 ```bash
 git clone https://github.com/ketan13089/Quizo.git
 cd Quizo
+
+```
+
+## ⚙️ Application.properties
+🔐 Create a `src/main/resources/application.properties` file based on `application-sample.properties` with your own DB credentials.
+
+```bash
+# application-sample.properties
+server.port=8080
+spring.datasource.url=jdbc:mysql://localhost:3306/quizo
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+```
+
