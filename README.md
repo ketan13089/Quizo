@@ -1,3 +1,3 @@
 # Quizo
 
-🔗 [Frontend Repository (React)]([https://github.com/ketan13089/quiz-frontend]))
+🔗 [Frontend Repository (React)]([https://github.com/ketan13089/quiz-frontend])
