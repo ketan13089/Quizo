@@ -1,4 +1,4 @@
-# 🧠 Quizo – Quiz App Backend
+# 🧠 Quizo – Backend
 
 ## 🖥️ [Frontend Repository (React)](https://github.com/ketan13089/quiz-frontend)
 
