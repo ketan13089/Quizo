@@ -1,7 +1,8 @@
 # 🧠 Quizo – Quiz App Backend
 
 ## 🖥️ Frontend
-  - [Frontend Repository (React)]([https://github.com/ketan13089/quiz-frontend])
+- [Frontend Repository (React)](https://github.com/ketan13089/quiz-frontend)
+
 
 Quizo is a clean and scalable backend system for a quiz application built using **Spring Boot**. It provides RESTful APIs to manage quizzes, questions, results, and leaderboards. Designed to integrate easily with any frontend, including the official [React frontend](https://github.com/ketan13089/quiz-frontend).
 
